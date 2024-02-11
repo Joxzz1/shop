@@ -1,7 +1,7 @@
 <?php
 session_start();
 $host = "localhost";
-$db_user = "";
+$db_user = "root";
 $db_pass = "";
 $db =  "jutishop";
 //connect to database
